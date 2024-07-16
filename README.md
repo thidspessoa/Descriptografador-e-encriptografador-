@@ -1,6 +1,10 @@
 # Decodificador-de-texto
 Este projeto é uma aplicação web simples que criptografa e descriptografa textos usando um método específico de substituição de letras. Ele permite que você troque mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
+![badge_descriptografador_mensagens](https://github.com/user-attachments/assets/c2d23afc-6546-4c4e-9312-349212fff04c)
+
+
+
 ## Descrição
 
 ### Regras de Criptografia:
